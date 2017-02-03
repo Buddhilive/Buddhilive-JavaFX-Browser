@@ -1,6 +1,6 @@
-# buddhi-javafx-browser
+# buddhilive-javafx-browser
 
-TERMS OF USE - buddhi-javafx-browser
+TERMS OF USE - buddhilive-javafx-browser
 
  * Open source under the BSD License. 
 
