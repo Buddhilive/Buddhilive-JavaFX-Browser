@@ -27,7 +27,7 @@ Buddhilive JavaFX Browser was created in 2014 by Buddhi Kavindra as result of hi
 * Java 8 Runtime Environment including JDK (Recommended)
 * Netbeans 8.2 or above (Recommended)
 * 2 GB RAM or above.
-* Basic knowledge about JavaFX and intermidiate knowledge in Java
+* Basic knowledge about JavaFX and intermediate knowledge in Java
 
 ### TERMS OF USE - Buddhilive JavaFX Browser Project
 
