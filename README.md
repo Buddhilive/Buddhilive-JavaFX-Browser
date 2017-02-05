@@ -56,6 +56,6 @@ AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (
 NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED 
 OF THE POSSIBILITY OF SUCH DAMAGE.**
 
-Official Website: [browser.buddhilive.com](browser.buddhilive.com "Buddhilive JavaFX Browser Project")
+Official Website: [browser.buddhilive.com](http://browser.buddhilive.com "Buddhilive JavaFX Browser Project")
 
 This project is exported from [code.google.com/p/buddhi-javafx-browser](https://code.google.com/archive/p/buddhi-javafx-browser/ "Google Code")
