@@ -1,4 +1,4 @@
-# Buddhilive JavaFX Browser Project ![alt text](https://github.com/Buddhilive/Buddhilive-JavaFX-Browser/blob/master/docs/logo.png)
+# Buddhilive JavaFX Browser Project ![logo](https://github.com/Buddhilive/Buddhilive-JavaFX-Browser/blob/master/docs/logo.png)
 
 ### About - Buddhilive JavaFX Browser Project
 
@@ -12,6 +12,8 @@ Buddhilive JavaFX Browser was created in 2014 by Buddhi Kavindra as result of hi
 * Page Loading Progress Indicator.
 * HTML5 Supported.
 * JavaFX 8 Technology
+
+![screenshot](https://github.com/Buddhilive/Buddhilive-JavaFX-Browser/blob/master/docs/img/features/javafx-browser-screenshot.png)
 
 ### Test Buddhilive JavaFX Browser
 
