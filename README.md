@@ -1,7 +1,33 @@
-Buddhilive JavaFX Browser Project
-=================================
+# Buddhilive JavaFX Browser Project ![alt text](https://github.com/Buddhilive/Buddhilive-JavaFX-Browser/blob/master/docs/logo.png)
 
-# TERMS OF USE - Buddhilive JavaFX Browser Project
+### About - Buddhilive JavaFX Browser Project
+
+Buddhilive JavaFX Browser was created in 2014 by Buddhi Kavindra as result of his study on JavaFX. The source code of the software is hosted as a open source project on Google Code on 9th February 2015. The Source code was released under brand name "Cybomedia Technologies" and the browser was named "Buddhi JavaFX Browser". Later on 1st July 2015, Buddhi Changed Cybomedia Technologies name to "Buddhilive Developers". After two years Buddhi change the source code and the project name according to his new brand name. So on 04th February 2017, ~~Buddhi JavaFX Browser~~ was renamed as "Buddhilive JavaFX Browser".
+
+### Features - Buddhilive JavaFX Browser (Current Version 2.1 - Beta)
+
+* Multi-Tabbed Browsing.
+* Closable Tabs.
+* Browsing History Navigation.
+* Page Loading Progress Indicator.
+* HTML5 Supported.
+* JavaFX 8 Technology
+
+### Test Buddhilive JavaFX Browser
+
+> Download the (latest) Executable JAR file form the link(s) provided below.
+**_(Need Java 8 Runtime Environment)_**
+
+* For Windows 10/8.1/8/7 - [Download Buddhilive JavaFX Browser 2.1](https://github.com/Buddhilive/Buddhilive-JavaFX-Browser/tree/master/build/v2.1/windows)
+
+### Prerequisites for Source Code Editting
+
+* Java 8 Runtime Environment including JDK (Recommended)
+* Netbeans 8.2 or above (Recommended)
+* 2 GB RAM or above.
+* Basic knowledge about JavaFX and intermidiate knowledge in Java
+
+### TERMS OF USE - Buddhilive JavaFX Browser Project
 
  * Open source under the BSD License. 
 
@@ -32,4 +58,4 @@ OF THE POSSIBILITY OF SUCH DAMAGE.
 
 Official Website: [browser.buddhilive.com](browser.buddhilive.com "Buddhilive JavaFX Browser Project")
 
-Automatically exported from [code.google.com/p/buddhi-javafx-browser](code.google.com/p/buddhi-javafx-browse "Google Code")
+This project is exported from [code.google.com/p/buddhi-javafx-browser](https://code.google.com/archive/p/buddhi-javafx-browser/ "Google Code")
