@@ -20,7 +20,7 @@ Buddhilive JavaFX Browser was created in 2014 by Buddhi Kavindra as result of hi
 > Download the (latest) Executable JAR file form the link(s) provided below.
 **_(Need Java 8 Runtime Environment)_**
 
-* For Windows 10/8.1/8/7 - [Download Buddhilive JavaFX Browser 2.1](https://github.com/Buddhilive/Buddhilive-JavaFX-Browser/releases/tag/v2.1)
+* [Download Buddhilive JavaFX Browser 2.1](https://github.com/Buddhilive/Buddhilive-JavaFX-Browser/releases/tag/v2.1)
 
 ### Prerequisites for Source Code Editting
 
